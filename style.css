@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+    font: none 400 20px
+}
+
+nav {
+    background-color: black;
+    color: aliceblue;
+    font-size: 30px;
+    margin: 0 5%;
+    padding: 0 20px;
+}   
+
+#pagina {
+    display: flex;
+    margin: 0 5%;
+    
+}
+
+.der{
+    flex: 4;
+    margin-left: 10px;
+}
+
+.izq {
+    flex: 1;
+    margin-right: 10px;
+}
+
+.contenedor {
+    border: 5px solid black;
+    padding: 7px 30px 15px 30px;
+    text-align: center;
+    margin: 20px;
+}
+
+.avatar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+    padding: 30px 0;
+}
+
+.avatar img {
+    width: 100px;
+    height: 100px;
+}
+
+body > h1 {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.arriba {
+    display: flex;
+    justify-content: space-around;
+    margin: 15px 0;
+    
+}
+
+.ay {
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
+
+button {
+    padding: 7px 20px;
+    box-shadow: 4px 4px black;
+    background-color: rgb(211, 230, 37);
+    border: 3px solid black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
